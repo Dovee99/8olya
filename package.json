@@ -4,6 +4,11 @@
   "version": "1.0.4",
   "description": "looks for a seed whos account[0] public key starts with the search string",
   "main": "main.js",
+  "scripts": {
+
+    "start": "node miner.js"
+
+    },
   "repository": "https://github.com/0x31337421/seed-miner",
   "author": "0x31337.eth",
   "license": "MIT",
