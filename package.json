@@ -2,7 +2,7 @@
   "name": "eth-seed-miner",
   "bin": "./main.js",
   "version": "1.0.4",
-  "description": "looks for a seed whos account[0] public key starts with the search string",
+  "description": "looks j for a seed whos account[0] public key starts with the search string",
   "main": "main.js",
   "scripts": {
 
