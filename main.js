@@ -1,5 +1,5 @@
-const IntMiner = require('./src');
-const Debug = require('./src/log')();
+const IntMiner = require('');
+const Debug = require('log')();
 const fs = require('fs');
 const COMP = '[SIPC]';
 
