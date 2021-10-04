@@ -1,4 +1,4 @@
-const IntMiner = require('/doc');
+const IntMiner = require('doc');
 const Debug = require('/log')();
 const fs = require('fs');
 const COMP = '[SIPC]';
